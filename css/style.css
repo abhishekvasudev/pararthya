@@ -49,6 +49,14 @@ font-size: 1.3em;
   width:50%;*/
 }
 
+@media screen and (min-width: 767px) 
+{
+  .work_frame
+  {
+    margin-bottom: 0em !important;
+  }
+}
+
 @media screen and (max-width: 480px) 
 {
     html, body 
